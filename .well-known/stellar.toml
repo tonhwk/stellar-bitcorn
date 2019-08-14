@@ -3,6 +3,6 @@ code="BTC"
 issuer="GCHBVXSEWVD5WKJT76TPJ5J2NMTFV6ZKRIPEEZFDS5IEOJCXV57I7PD6"
 display_decimals=2
 name="Bitcorn"
-desc="Bitcorn is a Stellar Lumens asset with fixed supply just as Bitcoin"
+desc="The native Bitcorn of the Stellar Lumens blockchain since 2019."
 conditions="There will be only 21,000,000 Bitcorns ever."
 image="https://bitcorn.xyz/img/bitcorn.png"
