@@ -1,0 +1,26 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit; }
+
+.content__logo {
+  margin-top: 30px;
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center; }
+  .content__logo img {
+    height: 120px; }
+  .content__logo h1 {
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 600;
+    font-style: italic;
+    font-size: 66px; }
+
+.content p {
+  display: flex;
+  justify-content: center;
+  font-family: "Titillium Web", sans-serif;
+  font-size: 27px; }
